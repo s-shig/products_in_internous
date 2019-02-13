@@ -14,7 +14,6 @@ header li{
   padding: 20px 30px;
 }
 
-
 main{
   display:inline-block;
   width: 100%;
@@ -27,9 +26,6 @@ main{
 .bx-wrapper{
   max-width: none !important;
 }
-/* .bigImage{
-  width: 100%;
-} */
 .left{
   width: 70%;
   float: left;
@@ -95,7 +91,6 @@ main{
 .bottomArt li{
   float: left;
 }
-
 
 footer{
   background-color: black;

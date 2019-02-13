@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyRPS</string>
+    <string name="janken">じゃんけん…</string>
+    <string name="bt_gu">グー</string>
+    <string name="bt_ch">チョキ</string>
+    <string name="bt_pa">パー</string>
+    <string name="win">勝ち!</string>
+    <string name="lose">負け…</string>
+</resources>

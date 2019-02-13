@@ -1,0 +1,106 @@
+body{
+  font-family:sans-serif;
+}
+#img{
+  width: 300px;
+}
+header ul{
+  background-color: black;
+  color: white;
+  list-style:none;
+}
+header li{
+  display:inline-block;
+  padding: 20px 30px;
+}
+
+
+main{
+  display:inline-block;
+  width: 100%;
+}
+
+.left {
+  width: 70%;
+  float: left;
+}
+
+.left h1{
+  border-left: solid 0.15em black;
+  border-bottom: solid 0.05em black;
+  padding-left: 0.4em;
+  width: 100%;
+}
+.left h2{
+  border-left: solid 0.15em red;
+  padding-left: 0.4em;
+}
+form{
+  margin: 0 auto;
+  background-color:#fbfbfb;
+  border:3px #ebebeb solid;
+  border-radius: 10px;
+  width:100%;
+  height: 450px;
+  margin-bottom: 40px;
+}
+.sent{
+  margin-left: 10px;
+}
+.sent h2{
+  margin-left: 20px;
+}
+.sent div{
+  margin: 20px 0;
+}
+.submit{
+   border:1px solid lightgray;
+   padding: 4px 10px;
+   color:white;
+   background-color:gray;
+   border-radius: 5px;
+   border-bottom: solid 2px gray;
+ }
+
+.cntnt{
+  margin: 0 auto;
+  background-color:#fbfbfb;
+  border:3px #ebebeb solid;
+  border-radius: 10px;
+  width:100%;
+}
+.cntnt h3{
+  border-bottom: 0.1em gray solid;
+  margin: 20px;
+}
+.contents{
+  margin: 0 20px;
+}
+.handlename{
+  margin: 20px 0 20px 0;
+}
+
+.right{
+  float: right;
+  width: 25%;
+}
+.right h2{
+  border-bottom: dotted 0.1em gray;
+  margin: 0;
+  padding-top: 1em;
+}
+.right li{
+  display:block;
+  padding: 0.3em;
+}
+
+
+
+
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
